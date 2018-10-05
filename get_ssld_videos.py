@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 import sys
 import argparse
-import urllib
-from urllib import request
-from urllib import parse
+import urllib.request
+import urllib.parse
 from bs4 import BeautifulSoup
 
 """
